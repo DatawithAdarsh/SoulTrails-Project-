@@ -1,1 +1,4 @@
-# SoulTrails-Project-
+# SoulTrails-Project
+
+Adarsh Tiwari
+IIT Kharagpur
